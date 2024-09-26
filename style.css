@@ -1,0 +1,220 @@
+
+/* start of first div .first{ */
+    .first{width: 100%;
+    height: 150px;
+    background-color: blue;}
+/* end of first div  */
+
+/* start of second div */
+.second {height: 150px;
+    background-color: brown;
+    display:flex;}
+    /* end of second div  */
+    
+    .second-left {
+        height: 150px;
+        width: 50%;
+        background-color: blueviolet;
+    }
+    .second-right {
+        height: 150px;
+        width: 50%;
+        background-color: rgb(198, 13, 13);}
+    /* start of third div  */
+    .third{ height: 150 px;
+     background-color: black;
+     display: flex;}
+
+     .third-left{ height: 150px;
+        width: 40%;
+    background-color: pink;}
+
+        .third-center{ height: 150px;
+           width: 20%;
+       background-color: rgb(9, 246, 171);}
+
+       .third-right{ height: 150px;
+        width: 40%;
+    background-color: rgb(220, 18, 176);}
+    /* end of third div  */
+    /* start of forth div  */
+     .forth{
+        height: 150px;
+        background-color: black;
+        display: flex;
+     }
+     .forth-left{
+        height: 150px;
+        width: 25%;
+        background-color: darkorange;
+     }
+     .forth-center1{
+        height: 150px;
+        width: 25%;
+        background-color:royalblue ;
+     }
+     .forth-center2{
+        height: 150px;
+        width: 25%;
+        background-color:greenyellow;
+     }
+     .forth-right{
+        height: 150px;
+        width: 25%;
+        background-color:gold ;
+     }
+     /* end of forth div  */
+     /* start of example div  */
+     .example-div{
+        height: 250px;
+    display: flex;
+}
+    .example-left{
+     height: 250px;
+    width: 50%;
+    text-align: center;
+
+}
+    .example-right{ 
+        height:250px;
+        width: 50%;
+    }
+img{
+    height: 350px;
+    width: 80%;
+}
+p{
+font-size: xx-large
+}
+/* end of example div  */
+/* start of fifth div  */
+.fifth{
+    height: 500px;
+    background-color:white; 
+    display: flex;
+    padding-top: 200px;
+}
+.fifth-left{
+    height: 500px;
+    width: 33.33%;
+    background-color: dodgerblue;
+    text-align: center;
+    font-size: x-large;
+}
+.fifth-center{
+    height: 500px;
+    width: 33.33%;
+    background-color: darkorange;
+    text-align: center;
+    font-size: x-large;
+}
+
+.fifth-right {
+    height: 500px;
+    width: 33.33%;
+    background-color:dodgerblue;
+    text-align: center;
+    font-size: xx-large;
+    }
+ ol{
+    font-size: xx-large;
+    text-align: center;
+margin-left: 80px;
+text-align: justify;
+}
+h4{ 
+    text-align: center;
+font-size: x-large;
+background-color: darkgrey;
+height: 100px;
+}
+/* end of fifth div  */
+/* start of programs div  */
+h4{
+    text-align: center;
+    font-size: larger;
+}
+.programs-div{
+    height: 250px;
+    width: 80%;
+    padding-top: 10px;
+margin-bottom: 10%; 
+display: flex;
+}
+.programs-left{
+    height: 250px;
+    width: 80%;
+}
+.programs-right{
+    height: 450px;
+    width: 100%;
+    font-size: x-large;
+    margin-left: 2px;
+}
+h5{
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+/* end of programs div  */
+/* start of economic div  */
+.economic-div{
+    background-color: white;
+    height:100px ;
+    padding-top: 10px;
+    display: flex;
+    margin-bottom: 10px;
+}
+.economic-left{
+    height: 40px;
+    width:80%;
+}
+.economic-right{
+    height: 600px;
+    width: 120%;
+    font-size: x-large;   
+}
+h6{
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 20px; 
+    /* end of economic div  */ 
+}
+/* start of citizenship div  */
+.citizenship-div{
+    height: 100px;
+    padding-top:40%;
+    display: flex;
+}
+.citizenship-left{
+    height: 40px;
+    width: 50%;
+}
+.citizenship-right{
+    height: 40px;
+    width: 60%;
+    font-size:x-large ;
+}
+h7{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: xx-large;
+}
+/* end of citizenship div  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
